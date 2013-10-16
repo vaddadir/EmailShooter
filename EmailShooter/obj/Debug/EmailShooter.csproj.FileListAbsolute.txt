@@ -1,2 +1,14 @@
 C:\WorkArea\MyWork\EmailShooter\EmailShooter\bin\Debug\EmailShooter.exe.config
 C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\bin\Debug\EmailShooter.exe.config
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\bin\Debug\EmailShooter.exe
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\bin\Debug\EmailShooter.pdb
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\EmailShooter.csprojResolveAssemblyReference.cache
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\MainWindow.baml
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\MainWindow.g.cs
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\App.g.cs
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\EmailShooter_MarkupCompile.cache
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\EmailShooter.g.resources
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\EmailShooter.Properties.Resources.resources
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\EmailShooter.csproj.GenerateResource.Cache
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\EmailShooter.exe
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\obj\Debug\EmailShooter.pdb
