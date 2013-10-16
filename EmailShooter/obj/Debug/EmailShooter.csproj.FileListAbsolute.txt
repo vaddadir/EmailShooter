@@ -1,0 +1,2 @@
+C:\WorkArea\MyWork\EmailShooter\EmailShooter\bin\Debug\EmailShooter.exe.config
+C:\WorkArea\MyWork\GitHub\EmailShooter\EmailShooter\bin\Debug\EmailShooter.exe.config
